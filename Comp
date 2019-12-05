@@ -1,1 +1,41 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Competetive</title>
+</head>
+<body>
+<div data-collapse="medium" data-animation="default" data-duration="400" class="navbar w-nav">
+  <div class="w-container">
+    <nav role="navigation" class="nav-menu w-nav-menu"><a href="#" class="nav-link w-nav-link">HOME</a><a href="#" class="nav-link w-nav-link">FOR FUN MOVEMENT</a><a href="#" class="nav-link-4 w-nav-link">TIME TO GRIND</a><a href="#" class="nav-link-5 w-nav-link">CONTACT US</a></nav>
+    <div class="w-nav-button">
+      <div class="w-icon-nav-menu"></div>
+    </div>
+  </div>
+</div>
+<div class="text-block"><br><br>        </div>
+<p class="paragraph-5">Competitive League of Legends has three core aspects to it.</p>
+<section class="cards-section-2">
+  <div class="centered-container-2 w-container">
+    <div class="cards-grid-container-2">
+      <div id="w-node-7f2bce80e528-f9653720"><img src="images/op.gg.png" srcset="images/op.gg.png 500w, images/op.gg.png 800w, images/op.gg.png 1080w, images/op.gg.png 1600w, images/op.gg.png 2048w" sizes="(max-width: 767px) 100vw, (max-width: 991px) 232.65625px, 293.328125px" id="w-node-7f2bce80e529-f9653720" alt="" class="cards-image-2">
+        <h3 class="heading-5">Research</h3>
+        <p class="paragraph-8">One must research the meta and what builds are viable for certain characters. A site like <a href="https://na.op.gg/" target="_blank">OP.gg</a> can help with this research.</p>
+      </div>
+      <div id="w-node-7f2bce80e52e-f9653720"><img src="images/meta.jpg" srcset="images/meta.jpg 800w, images/meta.jpg 1080w, images/meta.jpg 1280w" sizes="(max-width: 767px) 100vw, (max-width: 991px) 232.65625px, 293.328125px" id="w-node-7f2bce80e52f-f9653720" alt="" class="cards-image-2">
+        <h3 id="w-node-7f2bce80e530-f9653720" class="heading-6">ON Meta Picks</h3>
+        <p class="paragraph-6">Champions that are consistently viable within the game </p>
+      </div>
+      <div id="w-node-7f2bce80e534-f9653720"><img src="images/play.jpg" id="w-node-7f2bce80e535-f9653720" alt="" class="cards-image-2">
+        <h3 id="w-node-7f2bce80e536-f9653720" class="heading-7">Way of play</h3>
+        <p id="w-node-7f2bce80e538-f9653720" class="paragraph-7">How you and your friends want to play</p>
+      </div>
+    </div>
+  </div>
+</section>
+<script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.4.1.min.220afd743d.js" type="text/javascript" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+<script src="js/webflow.js" type="text/javascript"></script>
+<!-- [if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif] -->
+</body>
+</html>
